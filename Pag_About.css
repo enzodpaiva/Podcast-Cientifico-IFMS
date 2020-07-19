@@ -1,0 +1,27 @@
+.active2 a{
+    background-color: #343638 !important;
+
+}
+
+#Title2{
+    margin: 1rem 0 0 10%;
+    color: white;
+}
+
+#Content{
+  margin: 0;
+  padding: 0;
+}
+
+#Main{
+  margin: 1% 10% 0 10%;
+  padding: 2% 1% 1% 1%;
+  background-color: #979da8;
+  border-radius: 1rem;
+  color: white;
+  min-height: 30%;
+}
+
+.text{
+  margin-bottom: 5%;
+}

@@ -1,0 +1,31 @@
+.info{
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 4%;
+}
+
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+a:link{
+  font-size: 2em;
+  text-decoration: none;
+}
+
+a{
+  color: black;
+}
+
+p{
+  font-size: 2em;
+  color: black;
+}
+
+h3{
+  color: black;
+}

@@ -1,0 +1,63 @@
+.active3 a{
+    background-color: #343638 !important;
+}
+#content{
+  background-color: #2b2c2d;
+  width: 90%;
+  align-items: center;
+  margin:0 auto;
+  padding: 1vh;
+  margin-bottom: -1rem;
+  border-radius: 20px 20px 0 0;
+  border-bottom: 20px solid;
+  border-color: gray;
+  position: relative;
+}
+.flex-container{
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+}
+.flex-container > form {
+  width: 20rem;
+  height: 5rem;
+  margin: 1vh;
+  display: flex;
+  align-items: flex-end;
+  align-content: flex-start;
+
+}
+form > .form-control{
+  color: white;
+  background-color: #292b2d;
+  width: 20rem;
+  height: 5rem;
+  margin: 0 1rem 0;
+}
+form > .form-control > option:nth-child(2n + 1){
+  background-color: #45494c;
+}
+form > .form-control:focus{
+  border-color: white;
+}
+form > input[name=submit], form > input[name=submit]:hover, form > input[name=submit]:active, form > input[name=submit]:focus{
+  background-color: #2b2c2d;
+  border-color: white;
+}
+#content2{
+  background-color: #49505b;
+  width: 90%;
+  flex-grow: 0;
+  margin:0 auto;
+  padding: 1vh;
+  margin-bottom: 1rem;
+  border-radius: 0 0 20px 20px;
+  border-top: 20px solid;
+  border-color: gray;
+  position: relative;
+}
+#item{
+  width: 20rem;
+  height: 15rem;
+  margin: 1vh;
+}

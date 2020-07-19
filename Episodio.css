@@ -1,0 +1,25 @@
+.container{
+  display: flex;
+}
+
+#cinza{
+  background-color: grey;
+  border-radius: 1%;
+}
+
+.informacoes{
+width: 90%;
+text-align: justify;
+flex-wrap: wrap;
+padding-top: 2%;
+margin: 0 auto;
+color: white;
+font-family: times;
+}
+
+.titulo{
+  background-color: black;
+  padding: 0.5%;
+  color: #3db0f7;
+}
+
